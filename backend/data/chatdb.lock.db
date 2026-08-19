@@ -1,0 +1,6 @@
+#FileLock
+#Fri Aug 14 21:20:45 BRT 2026
+hostName=MBF.Dlink
+id=1a002cadf0ca1d293bebbffcf63c371c432fcadce84
+method=file
+server=192.168.0.175\:59827
